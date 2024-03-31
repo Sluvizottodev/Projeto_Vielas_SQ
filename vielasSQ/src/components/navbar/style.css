@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu-icon {
+    width: 70px;
+    height: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.bar {
+    width: 40px;
+    height: 5px;
+    background-color: #fff;
+}
+
+#header {
+    box-sizing: border-box;
+    height: 70px;
+    padding: 1rem;
+    background: #4761B4;
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.texto-container {
+    display: flex;
+    align-items: center;
+}
+
+h3 {
+    margin: 10PX;
+    font-family: 'Space Mono', monospace;
+}
+
+.login {
+    margin-left:1050px;
+    margin-right: 20px; 
+    color: #CCCCCC;
+}
+
+#circulo {
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    border-radius: 50%;
+}
