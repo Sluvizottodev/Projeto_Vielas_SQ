@@ -25,5 +25,5 @@ O Vielas nasce para contribuir com os editores, repórteres e designers de organ
 - Outras tecnologias...
 
 
-O site do Projeto Vielas está em desenvolvimento. Saiba mais em [https://brazilfoundation.org/project/projeto-viela/](https://brazilfoundation.org/project/projeto-viela/).
+O site do Projeto Vielas está em desenvolvimento. Saiba mais em https://www.agenciamural.org.br/.
 
