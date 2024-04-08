@@ -1,14 +1,13 @@
-import './style.css'
-import { Header } from './navbarStyle'
+import './style.module.css'
 
 export const Navbar = () => {
   return (
 <> 
-<Header>
+<header>
         <div id="header">
             <nav>
                 <div className="menu-icon">
-                    <div className="bar"></div>
+                    <div className={styles.bar}></div>
                     <div className="bar"></div>
                     <div className="bar"></div>
                 </div>
@@ -19,7 +18,7 @@ export const Navbar = () => {
                 <div id="circulo"></div>
             </div>
         </div>
-    </Header>
+    </header>
 </>
 
   )
