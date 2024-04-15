@@ -1,5 +1,7 @@
 # 🚧Projeto Vielas
 
+## PÁGINA DO GITHUB DESCONTINUADA
+
 ## ▶️Descrição
 
 Vielas é um projeto voluntário que visa revelar a diversidade periférica para o mundo. Em parceria com a Programar Com Você, Vielas está desenvolvendo um banco de imagens que dá vazão a talentos periféricos, enquanto atende à crescente exigência por uma imprensa que represente as diversas vozes do tecido social. Nascido nas quebradas e fomentado por quem vive e pensa nelas, é um projeto que visa mostrar a diversidade das periferias de São Paulo.
